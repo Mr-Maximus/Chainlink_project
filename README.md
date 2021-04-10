@@ -45,6 +45,11 @@
 
 
 
-## Buyer can verify these  transaction details by using their property id.
-![alt text](https://siasky.net/TABrvgK5iRUwSXMUY4ZsBdWvYhL-rXs5cr5ZMLVrJ5pTXw)
+## Buyer can verify these  transaction details by using their property id by entering their id and they will get the ipfs link of their agreement.
+![alt text](https://siasky.net/vAOlzpNoPqCbA6QvK7MZmWBxqpe-LLA_qYjA9kUZjbXJVQ)
 
+
+<br />
+<br />
+
+#Youtube-link - https://youtu.be/QuhAO8GlKT8
