@@ -18,10 +18,6 @@
 ![alt text](https://siasky.net/fAb9RSi49mIgDIRlLb4qy_cHAsRPub1rYY2yXeSmr07Aqw)
 
 
-![alt text](https://siasky.net/fAb9RSi49mIgDIRlLb4qy_cHAsRPub1rYY2yXeSmr07Aqw)
-
-
-
 ![alt text](https://siasky.net/fABWmFWSi_B-VcxYXNhjFQPDoJ5YPfEVm5tn3ioaAEV_Mw)
 
 
