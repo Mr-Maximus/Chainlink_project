@@ -18,23 +18,30 @@
 
 <br />
 <br />
+<br />
+<br />
 
 ## This is the ui of landmine platform where the seeller put their property for sale.
 ![alt text](https://siasky.net/fAb9RSi49mIgDIRlLb4qy_cHAsRPub1rYY2yXeSmr07Aqw)
 
+<br />
+<br />
 
 
 
 ## Buyer buy these properties.
 ![alt text](https://siasky.net/fABWmFWSi_B-VcxYXNhjFQPDoJ5YPfEVm5tn3ioaAEV_Mw)
 
-
+<br />
+<br />
 
 
 
 ## After Buyer agress to buy the property they will upload the agreement details which will be saved in the ipfs platform and seller will complete the transaction after the completion of payment.
 ![alt text](https://siasky.net/zACIz4ziCpjSOpy4OQcHeFBL2i1DAldxB_aGqMBoGe1lnQ)
 
+<br />
+<br />
 
 
 
