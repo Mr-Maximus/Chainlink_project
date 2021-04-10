@@ -16,7 +16,8 @@
 
 
 
-
+<br />
+<br />
 
 ## This is the ui of landmine platform where the seeller put their property for sale.
 ![alt text](https://siasky.net/fAb9RSi49mIgDIRlLb4qy_cHAsRPub1rYY2yXeSmr07Aqw)
